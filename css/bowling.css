@@ -1,0 +1,90 @@
+@charset "UTF-8";
+
+/* Help older browsers with HTML5 layout elements */
+header, nav, aside, article, footer, section, figure, figcaption {
+ display: block;
+}
+
+body {
+    background-color: #eeeeee;
+    padding-top: 70px;
+}
+
+/* Font classes */
+.concepthwbig {
+ font-family: 'Satisfy', cursive;
+ font-size: 108px;
+}
+.concepthwmedium {
+ font-family: 'Satisfy', cursive;
+ font-size: 48px;
+}
+.concepthw {
+ font-family: 'Satisfy', cursive;
+ font-size: 24px;
+}
+.opensans {
+ font-family: 'Open Sans', sans-serif;
+}
+.opensans-16 {
+ font-family: 'Open Sans', sans-serif;
+ font-size: 16px;
+}
+
+/* Border classes */
+.creamborder {
+ border: solid 2px #FFFFDD;
+}
+.creamtopborder {
+ border-top: solid 2px #FFFFDD;
+}
+
+/* Color Theme classes */
+.bgcolor {
+ background: linear-gradient(to left, #8DB298 0%, #83FFA8 100%);
+ color: black;
+}
+.bgcolorcream {
+ background: linear-gradient(to left, #8DB298 0%, #83FFA8 100%);
+ color: #FFFFDD;
+}
+.brick {
+ background: #B24443;
+ color: #FFFFDD;
+}
+.cream {
+ background: #FFFFDD;
+ color: #B24443;
+}
+.lightgreen {
+ background: #82FFA8;
+ color: black;
+}
+.olivegreen {
+ background: #8DB298;
+ color: #FFFFDD;
+}
+
+.outside {
+  width: 90%;
+  margin: 1em auto;
+}
+.current-leaders {
+  margin: 1em auto;
+  background-color: white;
+  border: solid 2px #660000;
+}
+.standings {
+  margin: 1em auto;
+  background-color: white;
+  border: solid 2px #660000; 
+}
+.sidebar-offcanvas {
+  margin: 1em auto;
+  background-color: white;
+  border: solid 2px #660000;
+}
+.block {
+  width: 90%;
+  margin: 1em auto;
+}
