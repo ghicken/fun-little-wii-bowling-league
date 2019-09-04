@@ -7,7 +7,7 @@ session_start();
 <link rel="stylesheet" type="text/css" href="mystyle.css" />
 <title>Fun Little Wii Bowling League</title>
 <!-- Describe this page for search engines -->
-<meta name="description" content="Wii Bowling League at Saralake Estates">
+<meta name="description" content="Fun Little Wii Bowling League">
 <!-- Character set for English and similar languages -->
 <meta charset="utf-8">
 <!-- Helps with rendering on mobile devices -->
